@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarushibindal21
 - 🔭 I’m currently working on C++ .
-- 🌱 I’m currently learning Mongodb
+- 🌱 I’m currently learning Nodejs
 - 📫 How to reach me: aarushibindal21@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "Coding is like writing a recipe with infinite ingredients – and sometimes, the oven just catches fire."
