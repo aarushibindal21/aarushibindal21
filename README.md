@@ -1,3 +1,4 @@
+
 👋 Hi, I’m @aarushibindal21  
 💻 I work with C++, Python, and Data Analysis tools  
 📚 Currently exploring Machine Learning and Data Visualization  
