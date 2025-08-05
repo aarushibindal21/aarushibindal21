@@ -3,6 +3,7 @@
 📚 Currently exploring Machine Learning and Data Visualization  
 🛠 Skills: Pythona,SQL,C++,Power Bi 
 📫 Reach me at: naarushibindal21@gmail.com
+
 😄 Pronouns: She/Her  
 💡 Fun fact: "Data is like garbage — you’d better know what you’re going to do with it before you collect it."
 
